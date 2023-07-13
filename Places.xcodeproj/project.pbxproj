@@ -15,6 +15,7 @@
 		67AC7FFE2A5FBA4E00A997B7 /* PlacesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67AC7FFD2A5FBA4E00A997B7 /* PlacesUITests.swift */; };
 		67AC80002A5FBA4E00A997B7 /* PlacesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67AC7FFF2A5FBA4E00A997B7 /* PlacesUITestsLaunchTests.swift */; };
 		67AC800D2A5FBFDF00A997B7 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67AC800C2A5FBFDF00A997B7 /* CircleImage.swift */; };
+		67AC800F2A605D8500A997B7 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67AC800E2A605D8500A997B7 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		67AC7FFD2A5FBA4E00A997B7 /* PlacesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesUITests.swift; sourceTree = "<group>"; };
 		67AC7FFF2A5FBA4E00A997B7 /* PlacesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		67AC800C2A5FBFDF00A997B7 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		67AC800E2A605D8500A997B7 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		67AC7FD62A5FBA4C00A997B7 = {
 			isa = PBXGroup;
 			children = (
+				67AC800E2A605D8500A997B7 /* MapView.swift */,
 				67AC7FE12A5FBA4C00A997B7 /* Places */,
 				67AC7FF22A5FBA4E00A997B7 /* PlacesTests */,
 				67AC7FFC2A5FBA4E00A997B7 /* PlacesUITests */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67AC7FE52A5FBA4C00A997B7 /* ContentView.swift in Sources */,
+				67AC800F2A605D8500A997B7 /* MapView.swift in Sources */,
 				67AC7FE32A5FBA4C00A997B7 /* PlacesApp.swift in Sources */,
 				67AC800D2A5FBFDF00A997B7 /* CircleImage.swift in Sources */,
 			);
