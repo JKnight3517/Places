@@ -134,6 +134,13 @@
 			path = Hikes;
 			sourceTree = "<group>";
 		};
+		6775BAD72A956C3600F3A9A3 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
 		6787F9F92A8B5CA800B0F3D2 /* HelperViews */ = {
 			isa = PBXGroup;
 			children = (
@@ -215,6 +222,7 @@
 		67AC80182A60DCAA00A997B7 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				6775BAD72A956C3600F3A9A3 /* Categories */,
 				6775BACE2A95623E00F3A9A3 /* Hikes */,
 				6775BAC92A9453E200F3A9A3 /* Badges */,
 				67AC7FE42A5FBA4C00A997B7 /* ContentView.swift */,
